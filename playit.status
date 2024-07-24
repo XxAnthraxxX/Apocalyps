@@ -1,189 +1,974 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721693154825 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721798902590 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693157907 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798905675 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693160963 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798908732 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693164078 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798911770 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693167130 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798914806 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693170233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798917888 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693173308 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798920952 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693176394 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798924029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693179451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798927080 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693182523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798930145 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693185587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798933196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693188668 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798936338 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693191749 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798939433 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693194809 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798942542 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693197875 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798945673 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693200921 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798948739 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693204028 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798951801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693207081 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798954842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693210128 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798957881 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693213186 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798960950 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693216220 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798964026 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693219280 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798967179 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693222352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798970237 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693225393 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798973315 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693228499 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798976363 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693231582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798979409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693234651 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798982448 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693237758 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798985497 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693240842 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798988637 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693243934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798991695 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693247018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798994732 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693250169 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721798997786 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693253215 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799000834 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693256254 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799003878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693259291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799006956 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693262363 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799010134 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693265442 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799013506 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721693268502 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721799016562 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799019611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799022650 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799025689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799028740 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799031775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799034826 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799037871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799041002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799044168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799047234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799050264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799053333 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799056386 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799059451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799062559 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799065647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799068697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799071745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799074783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799077839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799080890 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799083991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799087083 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799090121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799093159 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799096207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799099245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799102302 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799105404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799108494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799111561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799114612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799117660 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799120752 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799123787 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799126892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799130061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799133164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799136219 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799139284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799142377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799145473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799148549 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799151624 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799154719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799157822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799160873 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799163933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799167048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799170115 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799173238 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799176338 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799179396 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799182456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799185505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799188603 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799191646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799194702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799197761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799200852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799203991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799207126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799210195 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799213307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799216352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799219419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799222493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799225569 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799228615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799231687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799234740 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799237814 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799240869 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799243928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799247098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799250174 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799253234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799256288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799259342 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799262441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799265503 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799268709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799271999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799275035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799278134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799281244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799284284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799287327 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799290388 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799293485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799296553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799299657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799302781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799305868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799308906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799311960 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799315015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799318171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799321220 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799324271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799327316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799330390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799333452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799336521 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799339629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799342664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799345720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799348834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799351910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799354954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799358023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799361065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799364183 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799367435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799370535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799373633 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799376710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799379745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799382901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799385943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799389041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799392119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799395229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799398312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799401351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799404433 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799407472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799410524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799413612 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799416672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799419707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799422769 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799425882 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799429000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799432216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799435264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799438313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799441361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799444426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799447476 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799450526 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799453686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799456745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799459810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799462846 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799465947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799468994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799472060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799475326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799478404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799481506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799484561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799487630 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799490686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799493741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799496793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+aid-investigations.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721799499885 tunnel running, 1 tunnels registered
 
 
 TUNNELS
